@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yao 👋
 
-<!--
-**PQ-XY/PQ-XY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a background in architectural and lighting design, now focused on building full-stack applications.
 
-Here are some ideas to get you started:
+## 💻 What I do
+- Full-stack development (React, Spring Boot, MySQL)
+- Building scalable web applications
+- Exploring system design and backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Full-stack app with React + Spring + AWS
+- CI/CD pipeline with GitHub Actions + Docker + EC2
+
+## 🌱 Currently learning
+- TypeScript
+- System design
+- Backend performance optimization
+
+## 🧠 Background
+- 10+ years in architectural & lighting design
+- Transitioned into software engineering
+
+## 📫 Contact
+- LinkedIn: (add link)
+- Email: (optional)
