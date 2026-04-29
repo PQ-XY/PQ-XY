@@ -1,6 +1,6 @@
 # Hi, I'm Yao 👋
 
-I'm a software engineer with a background in architectural and lighting design, now focused on building full-stack applications.
+I'm a software engineer with a background in design, now focused on building full-stack AI applications.
 
 ## 💻 What I do
 - Full-stack development (React, Spring Boot, MySQL)
@@ -12,14 +12,13 @@ I'm a software engineer with a background in architectural and lighting design, 
 - CI/CD pipeline with GitHub Actions + Docker + EC2
 
 ## 🌱 Currently learning
-- TypeScript
+- Machine Learning
 - System design
 - Backend performance optimization
 
 ## 🧠 Background
-- 10+ years in architectural & lighting design
-- Transitioned into software engineering
+- UPenn Master of Applied Science in Computer Science
 
 ## 📫 Contact
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn: https://www.linkedin.com/in/y-xu-717aaa10a/
+- Email: yaoxu369@gmail.com
