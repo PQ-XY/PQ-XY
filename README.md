@@ -20,5 +20,5 @@ I'm a software engineer with a background in design, now focused on building ful
 - UPenn Master of Applied Science in Computer Science
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/y-xu-717aaa10a/
+- LinkedIn: https://www.linkedin.com/in/yao-xu-717aaa10a/
 - Email: yaoxu369@gmail.com
